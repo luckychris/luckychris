@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Install any python module in Blender]](https://youtu.be/2zGIERHU2mk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2zGIERHU2mk?si=VmrAZpoOWu1rKzD2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
