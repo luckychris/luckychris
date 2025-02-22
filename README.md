@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckychris)](https://github.com/luckychris/github-readme-stats)
+
 <!--
 **luckychris/luckychris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
