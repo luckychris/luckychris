@@ -40,9 +40,16 @@ Here are some ideas to get you started:
       </a>
 </div>
 
-<div align="left">
+<div style="display: flex; justify-content: space-between;">
+      <a href="https://www.youtube.com/watch?v=2zGIERHU2mk">
+         <img src="https://img.youtube.com/vi/2zGIERHU2mk/0.jpg" style="width:50%;">
+      </a>
       <a href="https://www.youtube.com/watch?v=07e1NUjYY_8">
          <img src="https://img.youtube.com/vi/07e1NUjYY_8/0.jpg" style="width:50%;">
       </a>
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+  <iframe width="45%" height="250" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
+  <iframe width="45%" height="250" src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
+</div>
