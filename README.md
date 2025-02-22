@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=2zGIERHU2mk">
-         <img src="https://img.youtube.com/vi/2zGIERHU2mk/0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/2zGIERHU2mk/0.jpg" style="width:50%;">
       </a>
 </div>
 
 <div align="right">
       <a href="https://www.youtube.com/watch?v=07e1NUjYY_8">
-         <img src="https://img.youtube.com/vi/07e1NUjYY_8/0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/07e1NUjYY_8/0.jpg" style="width:50%;">
       </a>
 </div>
 
