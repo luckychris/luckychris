@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=luckychris&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![Install any python module in Blender]](https://youtu.be/2zGIERHU2mk)
