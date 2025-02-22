@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <iframe width="45%" height="250" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
-  <iframe width="45%" height="250" src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
+  <iframe width="45%" height="250" src="https://www.youtube.com/watch?v=2zGIERHU2mk" frameborder="0" allowfullscreen></iframe>
+  <iframe width="45%" height="250" src="https://www.youtube.com/watch?v=07e1NUjYY_8" frameborder="0" allowfullscreen></iframe>
 </div>
