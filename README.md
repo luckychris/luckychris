@@ -30,4 +30,9 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2zGIERHU2mk?si=Lc_VWjGRtzitOu56" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=2zGIERHU2mk">
+         <img src="https://img.youtube.com/vi/2zGIERHU2mk/0.jpg" style="width:100%;">
+      </a>
+</div>
