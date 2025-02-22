@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckychris)](https://github.com/luckychris/github-readme-stats&theme=dark)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckychris)](https://github.com/luckychris/github-readme-stats&theme=great-gatsby)
 
 
 <!--
