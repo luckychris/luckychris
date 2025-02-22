@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!-- BEGIN YOUTUBE-CARDS -->
 
 <table>
   <tr>
@@ -50,5 +51,5 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
+<!-- END YOUTUBE-CARDS -->
 
