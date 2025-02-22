@@ -2,8 +2,6 @@
 
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckychris)](https://github.com/luckychris/github-readme-stats)
 
-📫 How to reach me:  https://www.instagram.com/blender.fun/
-                    https://x.com/luckychrisagain
 
 <!--
 **luckychris/luckychris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
