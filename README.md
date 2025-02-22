@@ -43,6 +43,11 @@ Here are some ideas to get you started:
          <img src="https://img.youtube.com/vi/07e1NUjYY_8/0.jpg" style="width:50%;">
       </a>
     </td>
+    <td>
+      <a href="https://youtu.be/EFUE5NSUsWQ">
+         <img src="https://img.youtube.com/vi/EFUE5NSUsWQ/0.jpg" style="width:50%;">
+      </a>
+    </td>
   </tr>
 </table>
 
