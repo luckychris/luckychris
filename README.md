@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![BlenderMarket](https://assets.superhivemarket.com/site_assets/blendermarketlogo.png)(https://blendermarket.com/creators/blenderfun)
+
+[![BlenderMarket](https://assets.superhivemarket.com/site_assets/blendermarketlogo.png)](https://blendermarket.com/creators/blenderfun)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
