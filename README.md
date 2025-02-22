@@ -40,4 +40,14 @@ Here are some ideas to get you started:
       </a>
 </div>
 
+<table>
+  <tr>
+    <td>
+      <iframe width="400" height="225" src="https://www.youtube.com/watch?v=2zGIERHU2mk" frameborder="0" allowfullscreen></iframe>
+    </td>
+    <td>
+      <iframe width="400" height="225" src="https://www.youtube.com/watch?v=07e1NUjYY_8" frameborder="0" allowfullscreen></iframe>
+    </td>
+  </tr>
+</table>
 
