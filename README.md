@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Making of...](https://ytcards.demolab.com/?id=dIvhk7P2n8U&title=Making+of...&lang=en&timestamp=1747425412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making of...")](https://www.youtube.com/watch?v=dIvhk7P2n8U)
-[![Making of....Torus with letters](https://ytcards.demolab.com/?id=AKvE1YSOHQ8&title=Making+of....Torus+with+letters&lang=en&timestamp=1747423969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making of....Torus with letters")](https://www.youtube.com/watch?v=AKvE1YSOHQ8)
-[![Fun with geometry nodes](https://ytcards.demolab.com/?id=1uxAutNZ9vs&title=Fun+with+geometry+nodes&lang=en&timestamp=1747422921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fun with geometry nodes")](https://www.youtube.com/watch?v=1uxAutNZ9vs)
-[![Fun with geometry nodes](https://ytcards.demolab.com/?id=4IR2sJR2aDQ&title=Fun+with+geometry+nodes&lang=en&timestamp=1747421020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fun with geometry nodes")](https://www.youtube.com/watch?v=4IR2sJR2aDQ)
-[![Text on curve with geometry nodes](https://ytcards.demolab.com/?id=xGfTZEBxiFs&title=Text+on+curve+with+geometry+nodes&lang=en&timestamp=1747381840&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Text on curve with geometry nodes")](https://www.youtube.com/watch?v=xGfTZEBxiFs)
-[![Making of "little geometry nodes fun"](https://ytcards.demolab.com/?id=0esm0v19am8&title=Making+of+%22little+geometry+nodes+fun%22&lang=en&timestamp=1747208049&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making of \"little geometry nodes fun\"")](https://www.youtube.com/watch?v=0esm0v19am8)
+
 <!-- END YOUTUBE-CARDS -->
 
