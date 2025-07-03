@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![WIP Tractor tracks](https://ytcards.demolab.com/?id=tdIRIQXYs34&title=WIP+Tractor+tracks&lang=en&timestamp=1751511670&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "WIP Tractor tracks")](https://www.youtube.com/watch?v=tdIRIQXYs34)
 [![Wrapping up jetski](https://ytcards.demolab.com/?id=gfinGGMFyz4&title=Wrapping+up+jetski&lang=en&timestamp=1751421642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Wrapping up jetski")](https://www.youtube.com/watch?v=gfinGGMFyz4)
 [![Rigging fun](https://ytcards.demolab.com/?id=SCp6MECfm7U&title=Rigging+fun&lang=en&timestamp=1751342429&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rigging fun")](https://www.youtube.com/shorts/SCp6MECfm7U)
 [![Simple cube animation with geometry nodes](https://ytcards.demolab.com/?id=tWSji_19_Ck&title=Simple+cube+animation+with+geometry+nodes&lang=en&timestamp=1751263247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Simple cube animation with geometry nodes")](https://www.youtube.com/shorts/tWSji_19_Ck)
 [![Rigged cube](https://ytcards.demolab.com/?id=QmBtsLgDHQY&title=Rigged+cube&lang=en&timestamp=1751173227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rigged cube")](https://www.youtube.com/watch?v=QmBtsLgDHQY)
 [![Simple rigging fun - looping animation](https://ytcards.demolab.com/?id=odv3ai11LJc&title=Simple+rigging+fun+-+looping+animation&lang=en&timestamp=1751090443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Simple rigging fun - looping animation")](https://www.youtube.com/watch?v=odv3ai11LJc)
-[![Cubes to car morphing](https://ytcards.demolab.com/?id=VkuhcE6uzwI&title=Cubes+to+car+morphing&lang=en&timestamp=1751011238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cubes to car morphing")](https://www.youtube.com/watch?v=VkuhcE6uzwI)
 <!-- END YOUTUBE-CARDS -->
 
