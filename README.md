@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Grid blur - moving in all directions](https://ytcards.demolab.com/?id=2rttK56hEuc&title=Grid+blur+-+moving+in+all+directions&lang=en&timestamp=1764962931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Grid blur - moving in all directions")](https://www.youtube.com/watch?v=2rttK56hEuc)
 [![Blur moving with compositing](https://ytcards.demolab.com/?id=s71-ThDB-lM&title=Blur+moving+with+compositing&lang=en&timestamp=1764951228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Blur moving with compositing")](https://www.youtube.com/watch?v=s71-ThDB-lM)
 [![Building chess board via geometry nodes](https://ytcards.demolab.com/?id=5b5V10BnabI&title=Building+chess+board+via+geometry+nodes&lang=en&timestamp=1764915848&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Building chess board via geometry nodes")](https://www.youtube.com/watch?v=5b5V10BnabI)
 [![Depth of field - by height](https://ytcards.demolab.com/?id=TAdykVC3lHo&title=Depth+of+field+-+by+height&lang=en&timestamp=1764841220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Depth of field - by height")](https://www.youtube.com/watch?v=TAdykVC3lHo)
 [![Chess board - Depth of field animation](https://ytcards.demolab.com/?id=flLyuWV8t9c&title=Chess+board+-+Depth+of+field+animation&lang=en&timestamp=1764784244&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chess board - Depth of field animation")](https://www.youtube.com/watch?v=flLyuWV8t9c)
 [![Glass shader](https://ytcards.demolab.com/?id=8zb1aU0fkRw&title=Glass+shader&lang=en&timestamp=1764678924&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Glass shader")](https://www.youtube.com/watch?v=8zb1aU0fkRw)
-[![Firing missiles](https://ytcards.demolab.com/?id=IxOP1QrmLcg&title=Firing+missiles&lang=en&timestamp=1764245026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Firing missiles")](https://www.youtube.com/watch?v=IxOP1QrmLcg)
 <!-- END YOUTUBE-CARDS -->
 
