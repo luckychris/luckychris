@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![First palet delivered #b3d #blender #rig](https://ytcards.demolab.com/?id=zSLzCrLsz4Q&title=First+palet+delivered+%23b3d+%23blender+%23rig&lang=en&timestamp=1766606767&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "First palet delivered #b3d #blender #rig")](https://www.youtube.com/watch?v=zSLzCrLsz4Q)
-[![Kuka robot in action](https://ytcards.demolab.com/?id=9_x9KLsrLWQ&title=Kuka+robot+in+action&lang=en&timestamp=1766258942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kuka robot in action")](https://www.youtube.com/watch?v=9_x9KLsrLWQ)
-[![Geometry nodes - i followed another great tutorial of CGMatter  #b3d #blender #geometrynodes](https://ytcards.demolab.com/?id=cVJ8E1AfRvg&title=Geometry+nodes+-+i+followed+another+great+tutorial+of+CGMatter++%23b3d+%23blender+%23geometrynodes&lang=en&timestamp=1766148098&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Geometry nodes - i followed another great tutorial of CGMatter  #b3d #blender #geometrynodes")](https://www.youtube.com/shorts/cVJ8E1AfRvg)
-[![Rolling on curves #b3d #blender #geometrynodes](https://ytcards.demolab.com/?id=c-xSbm6gE14&title=Rolling+on+curves+%23b3d+%23blender+%23geometrynodes&lang=en&timestamp=1765977290&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rolling on curves #b3d #blender #geometrynodes")](https://www.youtube.com/watch?v=c-xSbm6gE14)
-[![Keep rolling #b3d #blender #geometrynodes](https://ytcards.demolab.com/?id=9OWMOTyPWkU&title=Keep+rolling+%23b3d+%23blender+%23geometrynodes&lang=en&timestamp=1765893607&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Keep rolling #b3d #blender #geometrynodes")](https://www.youtube.com/watch?v=9OWMOTyPWkU)
-[![More chain animation #b3d #rigidbody #animation](https://ytcards.demolab.com/?id=UFXLeXjK-Ts&title=More+chain+animation+%23b3d+%23rigidbody+%23animation&lang=en&timestamp=1765865236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "More chain animation #b3d #rigidbody #animation")](https://www.youtube.com/watch?v=UFXLeXjK-Ts)
+
 <!-- END YOUTUBE-CARDS -->
 
