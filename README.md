@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Geometry nodes #b3d #geometrynodes #blender](https://ytcards.demolab.com/?id=iAh0i3P2NxA&title=Geometry+nodes+%23b3d+%23geometrynodes+%23blender&lang=en&timestamp=1773038358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Geometry nodes #b3d #geometrynodes #blender")](https://www.youtube.com/watch?v=iAh0i3P2NxA)
+[![Fun with geometry nodes #b3d #blender #geometrynodes](https://ytcards.demolab.com/?id=drDMkPxOErM&title=Fun+with+geometry+nodes+%23b3d+%23blender+%23geometrynodes&lang=en&timestamp=1772963873&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fun with geometry nodes #b3d #blender #geometrynodes")](https://www.youtube.com/watch?v=drDMkPxOErM)
+[![Debug geometry nodes](https://ytcards.demolab.com/?id=099b9U5jgn0&title=Debug+geometry+nodes&lang=en&timestamp=1772875417&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Debug geometry nodes")](https://www.youtube.com/watch?v=099b9U5jgn0)
+[![Writing on glass #b3d #blender #geometrynodes](https://ytcards.demolab.com/?id=FolO-L7pQBQ&title=Writing+on+glass+%23b3d+%23blender+%23geometrynodes&lang=en&timestamp=1772778570&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Writing on glass #b3d #blender #geometrynodes")](https://www.youtube.com/watch?v=FolO-L7pQBQ)
+[![Lamborghini with text on glass](https://ytcards.demolab.com/?id=nY1f-WPCYzw&title=Lamborghini+with+text+on+glass&lang=en&timestamp=1772695420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Lamborghini with text on glass")](https://www.youtube.com/watch?v=nY1f-WPCYzw)
+[![Experimenting with writing on glass](https://ytcards.demolab.com/?id=RjmHDsTFm_I&title=Experimenting+with+writing+on+glass&lang=en&timestamp=1772649894&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Experimenting with writing on glass")](https://www.youtube.com/watch?v=RjmHDsTFm_I)
 <!-- END YOUTUBE-CARDS -->
 
