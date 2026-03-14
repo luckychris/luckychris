@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Lifting mechanism  #blender #b3d](https://ytcards.demolab.com/?id=2XF_pXb9FIQ&title=Lifting+mechanism++%23blender+%23b3d&lang=en&timestamp=1773350860&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Lifting mechanism  #blender #b3d")](https://www.youtube.com/shorts/2XF_pXb9FIQ)
-[![Boxes with colors according to speed #b3d #geometrynodes #blender](https://ytcards.demolab.com/?id=H8hRLG3jbY0&title=Boxes+with+colors+according+to+speed+%23b3d+%23geometrynodes+%23blender&lang=en&timestamp=1773212415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Boxes with colors according to speed #b3d #geometrynodes #blender")](https://www.youtube.com/shorts/H8hRLG3jbY0)
-[![Render version #b3d #geometrynodes](https://ytcards.demolab.com/?id=YrCJajJkFFQ&title=Render+version+%23b3d+%23geometrynodes&lang=en&timestamp=1773123940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Render version #b3d #geometrynodes")](https://www.youtube.com/shorts/YrCJajJkFFQ)
-[![Geometry nodes #b3d #geometrynodes #blender](https://ytcards.demolab.com/?id=iAh0i3P2NxA&title=Geometry+nodes+%23b3d+%23geometrynodes+%23blender&lang=en&timestamp=1773038358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Geometry nodes #b3d #geometrynodes #blender")](https://www.youtube.com/watch?v=iAh0i3P2NxA)
-[![Fun with geometry nodes #b3d #blender #geometrynodes](https://ytcards.demolab.com/?id=drDMkPxOErM&title=Fun+with+geometry+nodes+%23b3d+%23blender+%23geometrynodes&lang=en&timestamp=1772963873&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fun with geometry nodes #b3d #blender #geometrynodes")](https://www.youtube.com/watch?v=drDMkPxOErM)
-[![Debug geometry nodes](https://ytcards.demolab.com/?id=099b9U5jgn0&title=Debug+geometry+nodes&lang=en&timestamp=1772875417&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Debug geometry nodes")](https://www.youtube.com/watch?v=099b9U5jgn0)
+
 <!-- END YOUTUBE-CARDS -->
 
