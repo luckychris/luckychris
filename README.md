@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![All rigid body constraints #b3d #rigidbody #constraints](https://ytcards.demolab.com/?id=oqm8iF08r_c&title=All+rigid+body+constraints+%23b3d+%23rigidbody+%23constraints&lang=en&timestamp=1774059414&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "All rigid body constraints #b3d #rigidbody #constraints")](https://www.youtube.com/shorts/oqm8iF08r_c)
-[![Pendulum with tracer #b3d #blender #geometrynodes #rigidbody](https://ytcards.demolab.com/?id=f6yYEY4RZes&title=Pendulum+with+tracer+%23b3d+%23blender+%23geometrynodes+%23rigidbody&lang=en&timestamp=1773914533&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pendulum with tracer #b3d #blender #geometrynodes #rigidbody")](https://www.youtube.com/shorts/f6yYEY4RZes)
-[![4 pendulums  #b3d #rigidbody #simulation](https://ytcards.demolab.com/?id=lAPInI3gP9E&title=4+pendulums++%23b3d+%23rigidbody+%23simulation&lang=en&timestamp=1773727237&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "4 pendulums  #b3d #rigidbody #simulation")](https://www.youtube.com/shorts/lAPInI3gP9E)
-[![4 part pendulum #b3d #blender #rigidbody](https://ytcards.demolab.com/?id=W_u3znHIhxc&title=4+part+pendulum+%23b3d+%23blender+%23rigidbody&lang=en&timestamp=1773662294&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "4 part pendulum #b3d #blender #rigidbody")](https://www.youtube.com/shorts/W_u3znHIhxc)
-[![Chaotic pendulum](https://ytcards.demolab.com/?id=5ZRJHwZ6WQ4&title=Chaotic+pendulum&lang=en&timestamp=1773588495&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chaotic pendulum")](https://www.youtube.com/shorts/5ZRJHwZ6WQ4)
-[![Add-on: Instant Placer](https://ytcards.demolab.com/?id=RuKuSFvihm4&title=Add-on%3A+Instant+Placer&lang=en&timestamp=1773504591&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Add-on: Instant Placer")](https://www.youtube.com/shorts/RuKuSFvihm4)
+
 <!-- END YOUTUBE-CARDS -->
 
