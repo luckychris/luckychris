@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Simple text animation](https://ytcards.demolab.com/?id=ViGwc4hUUSY&title=Simple+text+animation&lang=en&timestamp=1782297902&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Simple text animation")](https://www.youtube.com/watch?v=ViGwc4hUUSY)
-[![Butterflies!](https://ytcards.demolab.com/?id=QG4qecXeOAo&title=Butterflies%21&lang=en&timestamp=1782219532&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Butterflies!")](https://www.youtube.com/shorts/QG4qecXeOAo)
-[![Just a simple geometry nodes animation with butterflies](https://ytcards.demolab.com/?id=LBa0J5mJ1Ks&title=Just+a+simple+geometry+nodes+animation+with+butterflies&lang=en&timestamp=1782205673&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Just a simple geometry nodes animation with butterflies")](https://www.youtube.com/watch?v=LBa0J5mJ1Ks)
-[![Looping animation](https://ytcards.demolab.com/?id=B0EglRYZCJQ&title=Looping+animation&lang=en&timestamp=1781799507&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Looping animation")](https://www.youtube.com/watch?v=B0EglRYZCJQ)
-[![Demo: GN Nodetree: Animating opening and closing boxes with customizable dimensions](https://ytcards.demolab.com/?id=lR1JZchnGho&title=Demo%3A+GN+Nodetree%3A+Animating+opening+and+closing+boxes+with+customizable+dimensions&lang=en&timestamp=1781772333&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Demo: GN Nodetree: Animating opening and closing boxes with customizable dimensions")](https://www.youtube.com/watch?v=lR1JZchnGho)
-[![Warehouse robots - now smooth movement for breaking and accelerating #b3d #blender #geometrynodes](https://ytcards.demolab.com/?id=R0wQreYcjKA&title=Warehouse+robots+-+now+smooth+movement+for+breaking+and+accelerating+%23b3d+%23blender+%23geometrynodes&lang=en&timestamp=1781257828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Warehouse robots - now smooth movement for breaking and accelerating #b3d #blender #geometrynodes")](https://www.youtube.com/watch?v=R0wQreYcjKA)
+
 <!-- END YOUTUBE-CARDS -->
 
