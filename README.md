@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Dissolving looping animation #blender #geometrynodes](https://ytcards.demolab.com/?id=WYsWiXpkTVs&title=Dissolving+looping+animation+%23blender+%23geometrynodes&lang=en&timestamp=1783327842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dissolving looping animation #blender #geometrynodes")](https://www.youtube.com/shorts/WYsWiXpkTVs)
-[![Suzanne morphing 4 #geometrynodes](https://ytcards.demolab.com/?id=tCDaZX8IS8g&title=Suzanne+morphing+4+%23geometrynodes&lang=en&timestamp=1783296021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Suzanne morphing 4 #geometrynodes")](https://www.youtube.com/shorts/tCDaZX8IS8g)
-[![Suzanna morphing again again ;) #geometrynodes](https://ytcards.demolab.com/?id=19zYgORC4p4&title=Suzanna+morphing+again+again+%3B%29+%23geometrynodes&lang=en&timestamp=1783265387&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Suzanna morphing again again ;) #geometrynodes")](https://www.youtube.com/shorts/19zYgORC4p4)
-[![Suzanna morphing again #geometrynodes](https://ytcards.demolab.com/?id=_5m-8jzrhfA&title=Suzanna+morphing+again+%23geometrynodes&lang=en&timestamp=1783247404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Suzanna morphing again #geometrynodes")](https://www.youtube.com/shorts/_5m-8jzrhfA)
-[![Two suzannas dissolving #geometrynodes](https://ytcards.demolab.com/?id=8OTlqs-8jYc&title=Two+suzannas+dissolving+%23geometrynodes&lang=en&timestamp=1783168948&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Two suzannas dissolving #geometrynodes")](https://www.youtube.com/shorts/8OTlqs-8jYc)
-[![Dissolving suzanne  #geometrynodes](https://ytcards.demolab.com/?id=26vDDsfnw5o&title=Dissolving+suzanne++%23geometrynodes&lang=en&timestamp=1783155880&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dissolving suzanne  #geometrynodes")](https://www.youtube.com/shorts/26vDDsfnw5o)
+
 <!-- END YOUTUBE-CARDS -->
 
