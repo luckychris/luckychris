@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Text - Points animation #geometrynodes](https://ytcards.demolab.com/?id=N7I829crbc8&title=Text+-+Points+animation+%23geometrynodes&lang=en&timestamp=1783613835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Text - Points animation #geometrynodes")](https://www.youtube.com/shorts/N7I829crbc8)
-[![Point animation #geometrynodes](https://ytcards.demolab.com/?id=w-3hXHgtbP0&title=Point+animation+%23geometrynodes&lang=en&timestamp=1783535580&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Point animation #geometrynodes")](https://www.youtube.com/shorts/w-3hXHgtbP0)
-[![Demo animation](https://ytcards.demolab.com/?id=UupX4Nsw9qg&title=Demo+animation&lang=en&timestamp=1783440493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Demo animation")](https://www.youtube.com/watch?v=UupX4Nsw9qg)
-[![Demo  - Offset point deletion animation - Geometry nodes tree #geometrynodes #blender](https://ytcards.demolab.com/?id=1x4rzBQDIG0&title=Demo++-+Offset+point+deletion+animation+-+Geometry+nodes+tree+%23geometrynodes+%23blender&lang=en&timestamp=1783435821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Demo  - Offset point deletion animation - Geometry nodes tree #geometrynodes #blender")](https://www.youtube.com/watch?v=1x4rzBQDIG0)
-[![Dissolving looping animation #blender #geometrynodes](https://ytcards.demolab.com/?id=WYsWiXpkTVs&title=Dissolving+looping+animation+%23blender+%23geometrynodes&lang=en&timestamp=1783327842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dissolving looping animation #blender #geometrynodes")](https://www.youtube.com/shorts/WYsWiXpkTVs)
-[![Suzanne morphing 4 #geometrynodes](https://ytcards.demolab.com/?id=tCDaZX8IS8g&title=Suzanne+morphing+4+%23geometrynodes&lang=en&timestamp=1783296021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Suzanne morphing 4 #geometrynodes")](https://www.youtube.com/shorts/tCDaZX8IS8g)
+
 <!-- END YOUTUBE-CARDS -->
 
