@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Wall 21x8 #rigidbody #simulation #b3d](https://ytcards.demolab.com/?id=Y0n86D9jY-0&title=Wall+21x8+%23rigidbody+%23simulation+%23b3d&lang=en&timestamp=1786980607&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Wall 21x8 #rigidbody #simulation #b3d")](https://www.youtube.com/watch?v=Y0n86D9jY-0)
-[![Geometry nodes fun #b3d #geometrynodes](https://ytcards.demolab.com/?id=gJkOBSm_9fA&title=Geometry+nodes+fun+%23b3d+%23geometrynodes&lang=en&timestamp=1786959638&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Geometry nodes fun #b3d #geometrynodes")](https://www.youtube.com/shorts/gJkOBSm_9fA)
-[![Wall - 21x8 #blender #b3d #rigidbody #simulation](https://ytcards.demolab.com/?id=7Sp0qNFpBKA&title=Wall+-+21x8+%23blender+%23b3d+%23rigidbody+%23simulation&lang=en&timestamp=1786893021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Wall - 21x8 #blender #b3d #rigidbody #simulation")](https://www.youtube.com/watch?v=7Sp0qNFpBKA)
-[![20 rows #b3d #rigidbody #simulation](https://ytcards.demolab.com/?id=a-z_cxFzr4Y&title=20+rows+%23b3d+%23rigidbody+%23simulation&lang=en&timestamp=1786870294&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "20 rows #b3d #rigidbody #simulation")](https://www.youtube.com/shorts/a-z_cxFzr4Y)
-[![19 Rows - #blender #rigidbody #simulation](https://ytcards.demolab.com/?id=KcLGthmfHAk&title=19+Rows+-+%23blender+%23rigidbody+%23simulation&lang=en&timestamp=1786869903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "19 Rows - #blender #rigidbody #simulation")](https://www.youtube.com/shorts/KcLGthmfHAk)
-[![18 rows #blender #rigidbody #simulation](https://ytcards.demolab.com/?id=iVwYsiUYFnw&title=18+rows+%23blender+%23rigidbody+%23simulation&lang=en&timestamp=1786868115&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "18 rows #blender #rigidbody #simulation")](https://www.youtube.com/shorts/iVwYsiUYFnw)
+
 <!-- END YOUTUBE-CARDS -->
 
