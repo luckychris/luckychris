@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Fourier test #b3d #blender #motionlovers](https://ytcards.demolab.com/?id=xlBqhns4oHo&title=Fourier+test+%23b3d+%23blender+%23motionlovers&lang=en&timestamp=1791802238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fourier test #b3d #blender #motionlovers")](https://www.youtube.com/shorts/xlBqhns4oHo)
-[![Conveyor belt with springs - outline version #b3d #rigidbody #simulation #blender](https://ytcards.demolab.com/?id=Y6St1zhHi0w&title=Conveyor+belt+with+springs+-+outline+version+%23b3d+%23rigidbody+%23simulation+%23blender&lang=en&timestamp=1791706523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Conveyor belt with springs - outline version #b3d #rigidbody #simulation #blender")](https://www.youtube.com/watch?v=Y6St1zhHi0w)
-[![Kuka robot in action - Outline version #b3d #blender #rig](https://ytcards.demolab.com/?id=pZBbKehd5Ew&title=Kuka+robot+in+action+-+Outline+version+%23b3d+%23blender+%23rig&lang=en&timestamp=1791653113&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kuka robot in action - Outline version #b3d #blender #rig")](https://www.youtube.com/shorts/pZBbKehd5Ew)
-[![Cloth sim -  outline #b3d #blender #motionlovers](https://ytcards.demolab.com/?id=8JRy6nOIKM8&title=Cloth+sim+-++outline+%23b3d+%23blender+%23motionlovers&lang=en&timestamp=1791612006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cloth sim -  outline #b3d #blender #motionlovers")](https://www.youtube.com/shorts/8JRy6nOIKM8)
-[![Coffee machine - outline #blender #b3d #motionlovers](https://ytcards.demolab.com/?id=RDTeSb6dcBM&title=Coffee+machine+-+outline+%23blender+%23b3d+%23motionlovers&lang=en&timestamp=1791569123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coffee machine - outline #blender #b3d #motionlovers")](https://www.youtube.com/shorts/RDTeSb6dcBM)
-[![Heart](https://ytcards.demolab.com/?id=RXvHuTwCFpM&title=Heart&lang=en&timestamp=1791480183&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Heart")](https://www.youtube.com/shorts/RXvHuTwCFpM)
+
 <!-- END YOUTUBE-CARDS -->
 
