@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Fourier - Flamingo #b3d #blender #motionlovers](https://ytcards.demolab.com/?id=BWnhAzAs3X4&title=Fourier+-+Flamingo+%23b3d+%23blender+%23motionlovers&lang=en&timestamp=1791959107&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fourier - Flamingo #b3d #blender #motionlovers")](https://www.youtube.com/shorts/BWnhAzAs3X4)
+[![Fourier - butterfly #blender #b3d](https://ytcards.demolab.com/?id=l6yCgSaJzzo&title=Fourier+-+butterfly+%23blender+%23b3d&lang=en&timestamp=1791903308&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fourier - butterfly #blender #b3d")](https://www.youtube.com/shorts/l6yCgSaJzzo)
+[![#ad Fourier add-on](https://ytcards.demolab.com/?id=hDs7e5NuTuc&title=%23ad+Fourier+add-on&lang=en&timestamp=1791883838&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#ad Fourier add-on")](https://www.youtube.com/watch?v=hDs7e5NuTuc)
+[![More Fourier #blender #b3d](https://ytcards.demolab.com/?id=6xMla-svMaU&title=More+Fourier+%23blender+%23b3d&lang=en&timestamp=1791877225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "More Fourier #blender #b3d")](https://www.youtube.com/shorts/6xMla-svMaU)
+[![Fourier test #b3d #blender #motionlovers](https://ytcards.demolab.com/?id=xlBqhns4oHo&title=Fourier+test+%23b3d+%23blender+%23motionlovers&lang=en&timestamp=1791802238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fourier test #b3d #blender #motionlovers")](https://www.youtube.com/shorts/xlBqhns4oHo)
+[![Conveyor belt with springs - outline version #b3d #rigidbody #simulation #blender](https://ytcards.demolab.com/?id=Y6St1zhHi0w&title=Conveyor+belt+with+springs+-+outline+version+%23b3d+%23rigidbody+%23simulation+%23blender&lang=en&timestamp=1791706523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Conveyor belt with springs - outline version #b3d #rigidbody #simulation #blender")](https://www.youtube.com/watch?v=Y6St1zhHi0w)
 <!-- END YOUTUBE-CARDS -->
 
